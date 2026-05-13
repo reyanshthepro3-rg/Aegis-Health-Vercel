@@ -1,0 +1,9 @@
+packages:
+  - artifacts/health-guide
+  - lib/api-client-react
+  - lib/integrations-openai-ai-react
+
+allowBuilds:
+  esbuild: true
+
+autoInstallPeers: false
