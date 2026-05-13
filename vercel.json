@@ -11,5 +11,5 @@
       "dest": "/index.html"
     }
   ],
-  "outputDirectory": "artifacts/health-guide/dist"
+  "outputDirectory": "dist"
 }
