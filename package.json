@@ -1,0 +1,13 @@
+{
+  "name": "aegis-health-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "pnpm --dir artifacts/health-guide run build",
+    "install": "pnpm install"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  }
+}
