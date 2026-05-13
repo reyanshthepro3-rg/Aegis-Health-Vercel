@@ -1,4 +1,5 @@
 {
   "version": 2,
-  "outputDirectory": "artifacts/health-guide/dist"
+  "rootDirectory": "artifacts/health-guide",
+  "outputDirectory": "dist"
 }
