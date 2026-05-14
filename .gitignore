@@ -2,6 +2,8 @@
 
 # compiled output
 dist
+!artifacts/health-guide/dist/
+!artifacts/health-guide/dist/**
 tmp
 out-tsc
 *.tsbuildinfo
